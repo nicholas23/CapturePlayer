@@ -1,0 +1,14 @@
+# Xcode
+.DS_Store
+xcuserdata/
+build/
+DerivedData/
+*.xcarchive/
+*.ipa
+*.app
+*.dSYM
+
+# Dependency Management (uncomment if applicable)
+# Carthage/Build/
+# .swiftpm/
+# Pods/
